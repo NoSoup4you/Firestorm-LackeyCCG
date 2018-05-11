@@ -1,0 +1,281 @@
+Name	Set	ImageFile	Rarity	Race	Type	Traits	Cost	Tech Req	Cosmic	Combat	Life	Influence	Guns	Shields	Power	Resources Produced	Structure	Tech Value	Text
+Abesu	Prime	Abesu	U		Planet	Restricted	3		4							1	6	2	
+Academy	Prime	Academy	C		Support	Installation	3		0							0	0	0	Limited Any-2 R-->discard and draw
+Advanced Technology	Prime	Advanced_Technology	F		Advantage														need 3 less Tech to achieve a Transcendent Victory
+Agro Planet	Prime	Agro_Planet	R		Planet	Restricted	6		3							3	6	1	
+Akhnaar Kraag	Prime	Akhnaar_Kraag	U		Planet	Restricted	6		3							1	10	2	issue 1 command to have player discard random card from hand
+Albert McScott	Prime	Albert_McScott	R	H	Hero	"Engineer, Human, Mechanic, Unique"	5		2	0	2	3							Any: ship gains 1 energy (not exceed max)
+Alchemist	Prime	Alchemist	R	S	Hero	"Researcher, Restricted, Scientist, Soven, Voicing"	3		0	0	1	2							controlled ships have +1 structure
+Ambassador's Aide	Prime	Ambassador's_Aide	C		Support	"Diplomat, Gear"	2		1		1	1							
+Ancient Allies	Prime	Ancient_Allies	F	S	Fate														"until end of next turn, deploy Orinn and Voicing cards -2 resources (0 minimum)"
+Ancient Ruins of Pellapolonia	Prime	Ancient_Ruins_of_Pellapolonia	U		Planet	"Mineral, Restricted"	4		3							1	4	6	
+Andrew Masters	Prime	Andrew_Masters	R	H	Hero	"Assassin, Human, Spy, Unique"	6		3	3	6	5							Assassin/Spy: can't redirect hero combats initated by Andrew Masters.  Return to Homeworld after combat
+Aranaugh	Prime	Aranaugh	R	S	Hero	"Orinn, Unique, Voicing"	9		4	5	7	4							Combat: inflict +3 piercing damage to target ship at location
+Arcadius Prime	Prime	Arcadius_Prime	F	D	Planet	"Forest, Homeworld, Restricted"	4						3	3	3	2	12	1	Limited Main: issue 1 command to draw a card
+Archaeology Hoax	Prime	Archaeology_Hoax	U		Tactical		2		2										cancels action that would increase Tech
+Archaeology Student	Prime	Archaeology_Student	C		Hero	"Explore 1, Human"	1		2	0	1	0							
+Assassination Attempt	Prime	Assassination_Attempt	F		Fate														"CV >+ Hero's Influence, inflict 5 damage on that Hero"
+Assassin's Favorite Weapon	Prime	Assassin's_Favorite_Weapon	U		Support	"Gear, Weapon"	3		0										attach to Assassin/Spy- +2 damage during Hero combat
+Assembly Line	Prime	Assembly_Line	R		Support	"Fixed, Installation"	4	5	2							1			attach to Homeworld for +1 max hand size
+Back Alley Payoff	Prime	Back_Alley_Payoff	C		Tactical	Propaganda	0		1										opponent's resource cost for military card +2
+Barren Satellite	Prime	Barren_Satellite	U		Planet	"Desert, Restricted"	2		3							1	6	1	desert
+Battle Platform	Prime	Battle_Platform	R	S	Ship	"Military, Platform, Move 1, Soven"	12	6	2				5	4	5		7		terminate instead of recycle
+Battleship (Dysori)	Prime	Battleship_(Dysori)	R	D	Ship	"Battleship, Dysori, Military, Move 2, Sync"	8	4	2				4	3	3		4		
+Battleship (Muero)	Prime	Battleship_(Muero)	R	M	Ship	"Battleship, Military, Move 2, Muero"	10	4	2				3	3	3		6		Limited Combat-gains +1 energy until end of turn (can exceed max)
+Belan M	Prime	Belan_M	U		Planet	Restricted	5		3							1	12	0	
+Blackmail	Prime	Blackmail	C		Tactical		1		4										cancel Hero action
+Blood For Blood	Prime	Blood_For_Blood	C		Tactical		2		3										initiate Hero-Hero combat
+Bloodlust	Prime	Bloodlust	F	M	Fate														Power + 1 until end of next turn (gain +1 energy)
+Bodyguard	Prime	Bodyguard	C		Support	Gear	2		2										attack or effect targets subject Hero
+Brain Trust	Prime	Brain_Trust	R		Support	Installation	3		0										sacrifice heroes w/ combined influence > 7.  Main: turn to gain +1 Tech
+Bravery	Prime	Bravery	C		Tactical		1		3										sacrifice/terminate Hero in defending fleet to reset ship's energy (only if target is controlled planet)
+Breakdown	Prime	Breakdown	C		Tactical		3		1										recycle target support card
+Bureaucratic Mismanagement	Prime	Bureaucratic_Mismanagement	F		Fate														target player has -1 maximum commands until the end of the next turn
+Calm Words	Prime	Calm_Words	F		Tactical	Propaganda	1		3										Diplomat w/ influence > 3 ends combat (ships remain in location)
+Cannon Platform	Prime	Cannon_Platform	F	S	Ship	"Military, Platform, Move 1, Soven"	11	5	1				4	4	5		4		Move:1 (terminate instead of recycle)
+Cassandra Sage	Prime	Cassandra_Sage	F	H	Hero	"Diplomat, Human, Unique"	4		2	0	3	4							deploys at any planet. Any: play Propaganda card for -2 resources (0 minimum)
+Ceres	Prime	Ceres	F	S	Hero	"Orinn, Unique, Voicing"	7		1	5	6	3							"Voicing, Soven heroes at this location have +1 life, combat, influence"
+Chemical Plant	Prime	Chemical_Plant	F		Support	Installation	3		4							1			"scientists have +1 combat, life, influence"
+City	Prime	City	C		Support	"Fixed, Installation"	2		3							1	-1		can't reduce planet structure to less than 1
+Cloning	Prime	Cloning	F	D	Tactical		*		0										Main:  pay resource +2 to return hero in recycle pile to planet in star system
+Cluster Missile	Prime	Cluster_Missile	C		Support	"Military, Retrofit, Weapon"	3		2										Combat-does Cosmic Value + 1 to target ship
+Command Post	Prime	Command_Post	C		Support	"Installation, Restricted"	5		1										+1 maximum commands outside your star system
+Concentrated Effort	Prime	Concentrated_Effort	F		Fate														"during next turn, target planet produces +2 resources"
+Conscience	Prime	Conscience	C		Tactical		0		0										"cancel attack if planet  in star system has no ships, combat, or power stats"
+Conspiracy	Prime	Conspiracy	C		Tactical	Propaganda	1		4										gain Spy or Assassin trait and move to any planet
+Corporate Enforcer	Prime	Corporate_Enforcer	C		Hero	"Corp, Human, Spy"	3		2	2	2	0							look at opponent's top card-recycle or put into hand (gain +1 resource)
+Counter Measures	Prime	Counter_Measures	C		Tactical	Military	2		2										cancel Military tactical card or Military game effect
+Cowardice	Prime	Cowardice	C		Tactical		0		1										target Military Hero's text is 'blank' and can't perform rules actions until next turn
+Creative Invention	Prime	Creative_Invention	C		Tactical		2		1										gain +1 tech
+Crush Their Spirits	Prime	Crush_Their_Spirits	U		Fate														target ships -1/-0 in combat until end of next turn (0/1 minimum)
+Cry to the Heavens	Prime	Cry_to_the_Heavens	F	D	Fate														"until the end of next turn, controlled ships get +1/+0 combat"
+Cut the Red Tape	Prime	Cut_the_Red_Tape	C		Tactical	Propaganda	0		4										gain +1 command (not beyond maximum)
+D14 Missile	Prime	D14_Missile	C		Support	"Military, Retrofit, Weapon"	1		2										piercing damage +2 to target ship
+Dark World	Prime	Dark_World	U		Planet	Restricted	7		2							2	6	4	move retrofit card to another subject card you control
+Dead World	Prime	Dead_World	U		Planet	Restricted	1		2							0	3	2	Look at top 2 cards of draw pile and replace in any order
+Death	Prime	Death	R	H	Ship	"Battleship, Human, Military, Move 2, Unique"	11	6	4				4	3	3		7		Move:2
+Death Blow	Prime	Death_Blow	C		Tactical		0		4										Hero remains the attacking hero until end of next round
+Decoy	Prime	Decoy	C		Tactical		1		2										cancel game effect or attack that targets a Hero
+Desert Wasteworld	Prime	Desert_Wasteworld	U		Planet	"Desert, Restricted"	1		2							0	6	3	
+Destroyer	Prime	Destroyer_(Human)	F	H	Ship	"Destroyer, Human, Military, Move 2"	5	5	2				3	2	2		3		Move:2
+Destroyer	Prime	Destroyer_(Muero)	F	M	Ship	"Destroyer, Muero, Military, Move 2"	6	3	2				3	3	2		3		Move:2 Limited Combat:  gain +1 energy (have more energy than power)
+Discovered Technology	Prime	Discovered_Technology	F	H	Fate														gain +2 Tech
+Divine	Prime	Divine	F		Support	"Gear, Voicing"	4		3										Look at top cards of target's draw pile equal to subject's Influence-replace in any order
+Dr. Andreas Krieg	Prime	Dr_Andreas_Krieg	C		Hero	"Human, Researcher, Scientist"	2		0	0	1	0							Forest Planet at location produces +1 resource
+Dropped Weapon	Prime	Dropped_Weapon	C		Tactical		0		1										"recycle target Weapon, if control gain Weapon's resource cost -1 (minimum 1)"
+Earth	Prime	Earth	F	H	Planet	"Homeworld, Restricted"	3						2	3	2	2	10	1	"Combat: 2/3, Power 2; pay 3 resources to gain +1 tech during Main phase"
+Elias Lowry	Prime	Elias_Lowry	R	H	Hero	"Admiral, Human, Military"	8		4	3	4	5							Combat:: ships in combat gain +1 Energy (can exceed max)
+Elite Fighter	Prime	Elite_Fighter	F	M	Ship	"Fighter, Military, Move 2, Muero"	4	2	1				2	2	2		2		Move: 2 Combat React: inflict 2 damage on another ship in target fleet.
+Energy Enhancer	Prime	Energy_Enhancer	C		Support	"Retrofit, Weapon"	3	5	1										subject Ship gains +1 Energy (exceed maximum) until end of turn
+Epsilon Nebula	Prime	Epsilon_Nebula	U		Tactical		0		0										ship shield actions prevent 1 less damage until end of combat (minimum 0)
+Eryoness Cerinius	Prime	Eryoness_Cerinius	U	D	Hero	"Dysori, Explore 2, Military, Restricted, Scientist"	5		2	2	2	3							opposing ships outside of own star system have -1/-0 combat (minimum 0/1) Explore:2
+Escort	Prime	Escort	C		Support	Retrofit	3		0										sacrifice Escort to prevent damage to target Ship
+Expansion Agenda	Prime	Expansion_Agenda	R		Advantage														Expansion Victory:  control 8 different installations by card name attached to 3+ non-Homeworld planets
+Experimental Force Field	Prime	Experimental_Force_Field	F		Fate														can't attack target ship/planets at location
+Exploration Efficiency	Prime	Exploration_Efficiency	R	H	Advantage														"Limited End:  explored planet still has 1+ exploration point, gain +1 Tech"
+Explorer (Dysori)	Prime	Explorer_(Dysori)	F	D	Ship	"Dysori, Explore 1, Move 2"	4	2	3				1	2	2		3		"Explore:1, Move:2"
+Explorer (Human)	Prime	Explorer_(Human)	F	H	Ship	"Explore 2, Human, Move 2"	3	1	3				1	1	2		2		"Explore:2, Move: 2"
+Explorer (Soven)	Prime	Explorer_(Soven)	F	S	Ship	"Explore 2, Move 2, Soven"	4	4	3				1	2	2		2		"Move: 2, Explore: 2"
+Extended Meeting	Prime	Extended_Meeting	C		Tactical	Propaganda	0		0										turn target Hero
+Famine	Prime	Famine	F	H	Ship	"Battleship, Human, Military, Move 2, Unique"	11	6	4				4	3	3		7		Move: 2
+Faulty Wiring	Prime	Faulty_Wiring	U		Tactical		0	6	2										target ships -0/-2 combat (minimum 0/1) until end of turn
+Fighter (Human)	Prime	Fighter_(Human)	F	H	Ship	"Fighter, Human, Military, Move 2"	3	4	2				2	1	2		2		Move:2
+Fighter (Soven)	Prime	Fighter_(Soven)	F	S	Ship	"Fighter, Military, Move 2, Soven"	5	4	2				2	2	3		3		Move:2
+Fighter (Dysori)	Prime	Fighter_(Dysori)	C	D	Ship	"Dysori, Fighter, Military, Move 2, Sync"	2		1				2	1	2		3		"Move 2, Sync"
+Fighter Scout (Soven)	Prime	Fighter_Scout_(Soven)	U	S	Ship	"Explore 2, Fighter, Move 2, Soven"	3		3				1	3	2		2		"Explore:1, Move:2 "
+Fighter Scout (Human)	Prime	Fighter_Scout_(Human)	F	H	Ship	"Explore 1, Fighter, Human, Military, Move 2"	4		2				2	2	2		2		"Explore:2, Move:2"
+Firestorm Flare	Prime	Firestorm_Flare	C		Fate														"2 Piercing damage on ALL ships in Firestorm, 1 Piercing to Adjacent ships"
+Fleet Carrier	Prime	Fleet_Carrier	F	M	Ship	"Carrier, Military, Move 2, Muero"	11	5	0				2	3	4		4		Move:2 Limited Main: pay 2 resources to take Fighter card from recycle pile to your hand
+Forest World	Prime	Forest_World	C		Planet	"Forest, Restricted"	2		1							1	4	3	
+Foz	Prime	Foz	C	S	Hero	"Scientist, Soven, Voicing"	4		3	0	2	2							"Voicing:2, +1 Tech"
+Freak Asteroid	Prime	Freak_Asteroid	U		Fate														recycle target ship with structure of 3 or less
+Frozen World	Prime	Frozen_World	U		Planet	"Mineral, Restricted"	4		3							1	6	4	Mineral
+Fusion Reactor	Prime	Fusion_Reactor	R		Support	"Fixed, Installation"	4	4	1							2			subject planet has +1 power
+Fusion Welder	Prime	Fusion_Welder	C		Hero	"Engineer, Human, Mechanic"	3		3	0	1	2							Mechanic
+Garden World	Prime	Garden_World	F		Planet	"Forest, Restricted, Soven"	3		3							1	4	4	only Soven can use as starting planet.  Attach Xelmon Gardens for -1 resources (minimum 0)
+Glancing Blow	Prime	Glancing_Blow	C		Tactical		1		0										prevents 1/2 damage (round up)
+Glitch	Prime	Glitch	C		Tactical		1		3										treat non-controlled support card text as blank
+Global Efficiency	Prime	Global_Efficiency	R	S	Advantage														"(+1 Max commands), Homeworld produces +1 resources"
+Government Liason	Prime	Government_Liason	C		Tactical	Propaganda	0		3										Hero gains Diplomat trait
+Gravity Well Slingshot	Prime	Gravity_Well_Slingshot	C		Tactical		0	8	1										moved ship moves again at Move:2
+Greelok Nusaal	Prime	Greelok_Nusaal	U	M	Hero	"Muero, Oracle"	4		4	0	2	2							"1 command + 2 resources to return card from recycle pile to hand, but opponent terminates random card from your hand"
+Guardian Platform	Prime	Guardian_Platform	F	S	Ship	"Military, Move 2, Platform, Soven"	9	5	1				3	4	4		3		Move:2 (terminate instead of recycle)
+Gunship	Prime	Gunship	F	D	Ship	"Destroyer, Dysori, Military, Move 2, Sync"	4	3	2				3	2	2		3		"Move: 2, sync; can inflict damage on 2 targets divided as wish"
+Heal	Prime	Heal	U		Support	"Gear, Voicing"	2		3										remove up to 2 damage from target Hero
+Heavy Cruiser	Prime	Heavy_Cruiser	F	D	Ship	"Cruiser, Dysori, Military, Move 2, Sync"	10	5	1				4	4	3		5		"Move: 2, sync"
+Herbalist	Prime	Herbalist	C	S	Hero	"Medic 2, Soven"	2		4	0	2	2							Medic:2
+Hidden Forces	Prime	Hidden_Forces	C		Tactical		4		3										"damage +2 on opposing ship, pay cost to return owned  recycled ship to location"
+Hidden Resources	Prime	Hidden_Resources	C		Tactical		0		2										gain +1 resource
+Homeworld Recall	Prime	Homeworld_Recall	F		Fate														move target ship to controller's Homeworld
+Homeworld Defense	Prime	Homeworld_Defense	R		Advantage														ships do -1 damage to Homeworld
+Hydro-Extraction Plant	Prime	Hydro-Extraction_Plant	C		Support	Installation	2		3										Limited Any: sacrifice Hero to gain Resources = Hero's life
+Hydroponic Farm	Prime	Hydroponic_Farm	C		Support	Installation	3	5	1							1			Limited Main-gain +1 resource if Planet = desert
+I Die!	Prime	I_Die	C		Tactical		0		4										hero targets another Hero
+Improved Engines	Prime	Improved_Engines	R		Support	"Fixed, Retrofit"	3		0										ship movement +1
+In the Grasp of Your Hand	Prime	In_the_Grasp_of_Your_Hand	U		Fate														ships can no longer retreat from combat for remainder of game
+Indecision	Prime	Indecision	C		Tactical		2		3										cancel game effect or rules action if opposing fleet does NOT have a Hero
+Infra-Red Goggles	Prime	Infra-Red_Goggles	C		Support	"Gear, Military"	0		4										look at target player's hand
+Insurrection Support	Prime	Insurrection_Support	F		Advantage														Limited End: issue 1 command to inflict 1 piercing damage on target planet (structure >= 2)
+Ion Cannon	Prime	Ion_Cannon	F		Support	"Installation, Military, Weapon"	2	4	0										pay 3 resources to give target ship -0/-X (minimum 0/1) combat until end of current turn (X=current shields)
+Ion Storm	Prime	Ion_Storm	C		Tactical		1		2										inflict +1 Piercing damage
+Jason Trage	Prime	Jason_Trage	U		Hero	"Assassin, Human, Hunted, Military"	7		1	3	2	3							declare another attack on already attacked target this turn-not need to issue a command
+Jihad	Prime	Jihad	R		Tactical		0		0										"react: play at beginning of reset phase. Planets produce -1 resources, but ships get +1/+0 Combat until end of turn"
+Jon Crowne	Prime	Jon_Crowne	R	H	Hero	"Human, Military, Spy"	5		2	2	3	3							Spy; Limited Main-random card from target's hand can't play card until end of Main phase (can look)
+Josidynn Prosidius	Prime	Josidynn_Prosidius	R		Hero	"Dysori, Mercenary, Military, Unique"	7		1	5	3	3							ships in Josidynn Prosidius fleet inflict +2 damage on Dysori ships.  Limited Main: steal 1 resource if you have no resources
+Juggernaut	Prime	Juggernaut	F	M	Ship	"Battleship, Military, Move 1, Muero"	8	5	1				8	3	2		3		"Move:1 Only spend 1 energy each combat to inflict damage, but can split damage to 2 targets"
+Jupiter	Prime	Jupiter	R		Planet	"Gaseous, Restricted"	5		2							2	8	1	
+Kamikaze Run	Prime	Kamikaze_Run	C		Tactical		0		0										sacrifice ship to inflict sacrificed ship's printed Structure on target Ship
+Kane Richards	Prime	Kane_Richards	F	H	Hero	"Explore 3, Human, Unique"	4		0	0	2	2							Explore:3 Limited Main: play Explore card for -1 Resource (minimum 0)
+Karina Tristan	Prime	Karina_Tristan	R		Hero	"Diplomat, Explore 1, Human, Unique"	8		3	0	4	4							"deploy at any planet. Explore:1, Any: gain +2 resources, pay resource cost to recycle opponent's random card"
+Kraroon Verixx	Prime	Kraroon_Verixx	F	M	Hero	"Military, Muero"	6		2	1	2	2							Combat React: add Cosmic Value of discard to damage inflicted
+Laboratory Reproduction	Prime	Laboratory_Reproduction	R	D	Advantage														Main: deploy Hero of other race +3 resource cost
+Lucky Break +2	Prime	Lucky_Break_(+2)	U		Tactical		1	3	0										add 2 damage to target
+Lucky Break -2	Prime	Lucky_Break_(-2)	U		Tactical		1	3	0										subtract two from damage inflicted to your ship
+Lyseria Truvalis	Prime	Lyseria_Truvalis	C	D	Hero	"Captain, Dysori, Military"	4		3	2	2	1							ship inflicts +1 damage in Combat
+Mars	Prime	Mars	C		Planet	Restricted	3		1							1	4	5	
+Martyred Leader	Prime	Martyred_Leader	C		Tactical		0		0										"other Heroes gain +2 combat, +2 life, +2 influence until end of turn"
+Mass Aggression	Prime	Mass_Aggression	R		Tactical		2	4	2										Gain +1/-1 combat (min 0) until the end of turn
+Massacre at Triton	Prime	Massacre_at_Triton	R		Tactical	Military	0	5	4										Combat:  perform 2 non-react actions in a row before anyone else performs action (they may be reacted to normally)
+Massive Buildup	Prime	Massive_Buildup	F	M	Tactical	"Muero, Military"	0		0										"1 copy in deck.  Main: until end of turn, deploy Military cards -2 resources (minimum 1)"
+Master Planning	Prime	Master_Planning	U		Tactical	Military	0		4										"Only Once Main: Twice this turn deploy ship, planet, hero, support card w/out issuing a command"
+Master's Guard Dogs	Prime	Master's_Guard_Dogs	C		Support	"Gear, Military, Weapon"	3		3	1									subject Hero is attacking Hero for  1rst 2 rounds of hero combat initiated
+Mend	Prime	Mend	U		Support	"Gear, Voicing"	2		3										Any-remove up to 2 damage from target ship
+Mercenary Captain	Prime	Mercenary_Captain	C		Hero	"Mercenary, Military, Muero"	2		0	1	2	3							pay 3 resources to give MC's ship +1/+0 combat until the end of combat
+Mercenary Carrier	Prime	Mercenary_Carrier	R		Ship	"Carrier, Mercenary, Military, Move 2"	11	3	0				2	3	3		6		Move:2; pay 1 resources to join fleet. Limited Combat: pay 4 resources to return recycled fighter to MC's fleet
+Mercenary Destroyer	Prime	Mercenary_Destroyer	U		Ship	"Destroyer, Mercenary, Military, Move 2"	6	1	1				3	2	3		4		Move: 2; pay 1 resource to join fleet
+Mercenary Fighter	Prime	Mercenary_Fighter	C		Ship	"Fighter, Mercenary, Military, Move 2"	3	1	3				2	1	3		2		"Move:2, costs 1 resource to join fleet"
+Mercenary Scout	Prime	Mercenary_Scout	C		Ship	"Explore 1, Mercenary, Military, Move 2"	1	1	4				0	1	1		2		"Explore:1, Move:2 costs 1 resource to join fleet"
+Methane Giant	Prime	Methane_Giant	F		Planet	"Gaseous, Restricted"	3		4							0	7	5	
+Military Vise	Prime	Military_Vise	R	M	Advantage														eliminate  opponent when conquer 3 non-homeworld planets in their star system
+Mine Field	Prime	Mine_Field	C		Tactical	Military	*		2										pay 1 Resource for each ship in opposing fleet to inflict 1 Piercing damage on each ship
+Mineral Rich Planet	Prime	Mineral_Rich_Planet	U		Planet	Restricted	3		4				5		2	1	5		"combat: 5/0, Power:2-when conquering planet, player gains +2 resources"
+Mining Asteroid	Prime	Mining_Asteroid	F		Planet	"Mineral, Restricted"	1		2							0	5	3	5 ore counters. Limited Main: remove 1 ore counter to gain 1 resource
+Mining Facility	Prime	Mining_Facility	R		Support	Installation	2		1								1		Limited Main: inflict 1 damage on planet to gain 2 resources
+Missile Battery	Prime	Missile_Battery	U		Support	"Retrofit, Weapon"	4	3	1										Combat: inflict 1 piercing damage to ship
+Miyal	Prime	Miyal	F	S	Hero	"Diplomat, Scientist, Soven, Unique"	6		0	0	2	3							deploys at any planet.  Pay -2 resources for action that gains Tech
+Moon of Sunaaku	Prime	Moon_of_Sunaaku	U		Planet	Restricted	4		2							0	8	6	
+Motann-Raxx	Prime	Motann-Raxx	R	M	Hero	"Diplomat, Military, Muero, Unique"	6		0	4	4	4							deploy at any planet-spend 2 energy to inflict double combat damage
+Mr. Dyer	Prime	Mr_Dyer	C	H	Hero	"Assassin, Human"	3		3	2	2	2							"Assassin, inflicts 1 damage on target Hero"
+Muero Ragnuu Prime	Prime	Muero_Ragnuu_Prime	F	M	Planet	Restricted	4		2							1	5	3	Limited Any:  1 command to find Gear card in draw pile and place in your hand after revealing
+Multiple Choices	Prime	Multiple_Choices	R		Advantage														3 advantage cards in deck-search deck for 2 advantage cards and start -2 resources (min 1). Any: reveal 1 card
+Neptune	Prime	Neptune	R		Planet	"Gaseous, Restricted"	6		2							2	6	4	
+Night of Death	Prime	Night_of_Death	U		Fate														recycle target Heroes if draw card Cosmic Value > Hero Life + 1
+No One to Lead	Prime	No_One_to_Lead	C		Tactical		1		4										(+1/+0) Combat if you have Hero and other fleet does not
+Nowhere to Run	Prime	Nowhere_to_Run	C		Tactical		0		4										spend 1 Energy from ship to cancel opposing ship's retreat
+Nurall Tulaak	Prime	Nurall_Tulaak	F	M	Hero	"Diplomat, Muero, Spy, Unique"	6		4	2	4	3							deploys at any planet. React:  opponent gains 0 resources at location until end of turn
+Octavia Julianis	Prime	Octavia_Julianis	F	D	Hero	"Captain, Dysori, Military"	3		2	1	4	3							React: prevent 2 damage to ship
+Only Fools Roll the Bones!	Prime	Only_Fools_Roll_the_Bones	C		Tactical		0		2										cancel and terminate Fate card as drawn/revealed
+Orbital Shipyard	Prime	Orbital_Shipyard	U		Support	"Fixed, Installation"	6		0							1	1		deploy ships at location
+Orbital Space Station	Prime	Orbital_Space_Station	R		Ship	Move 1	2	3	3				1	3	2		3		unturn target ship in Orbital Space Station's star system
+Outbreak of Production	Prime	Outbreak_of_Production	U		Fate														non-homeworld planets produce +1 resources for next turn.
+Overrun	Prime	Overrun	R		Advantage														opponent loses game if you have 1 non-fighter and they control no ships at Homeworld
+Particle Enhancer	Prime	Particle_Enhancer	C		Support	"Fixed, Retrofit, Weapon"	2	5	4										inflict damage on additional target (divide how one chooses)
+Passage to Mars	Prime	Passage_to_Mars	C		Tactical		3		3										"Move target Hero to any planet, may perform another game effect or rules action w/ Hero"
+Peridisius Prime	Prime	Peridisius_Prime	U		Planet	Restricted	9		2							3	8	4	
+Pestilence	Prime	Pestilence	F	H	Ship	"Battleship, Human, Military, Move 2, Unique"	11	6	4				4	3	3		7		Move: 2
+Phantom Images	Prime	Phantom_Images	R		Tactical	Military	2		2										React: prevent Your Tech - Opponent Tech in damage (your tech is greater than opponent's)
+Pillage	Prime	Pillage	C		Tactical		0		0										gain +3 resources as conquer Planet
+Pilot Training Facility	Prime	Pilot_Training_Facility	C		Support	"Fixed, Installation"	4		4							1			"controlled pilots have +1 life, +1 combat, +1 influence"
+Planetary Cannons	Prime	Planetary_Cannons	C		Support	"Fixed, Installation, Weapon"	3	6	3										inflict 3 Piercing Damage to ship
+Planetary Defenses	Prime	Planetary_Defenses	R		Advantage														controlled planets have +1/+1 combat and +1 power (can gain attribute)
+Planetary Shields	Prime	Planetary_Shields	C		Support	"Fixed, Installation"	2	4	2								2		
+Pleasure-Bot	Prime	Pleasure-Bot	U		Hero	Android	3		1	0	3	1							attach to Hero as Gear card.  Main: turn Pleasure-bot to turn subject Hero 
+Poor Planning	Prime	Poor_Planning	C		Tactical		2		1										terminate card in player's recycle pile
+Power Cell	Prime	Power_Cell	C		Support	Retrofit	1		3										spend 1 energy to put Battery token. Battery token can be spent as energy
+Power Leak	Prime	Power_Leak	U		Tactical		2	4	1										target shiop loses 1 Energy
+Precious Cache	Prime	Precious_Cache	R		Fate														gain 3 resources
+Precursor Site	Prime	Precursor_Site	C		Planet	Restricted	2		1							0	6	4	
+Prefect Karynn Prosidius	Prime	Prefect_Karynn_Prosidius	R	D	Hero	"Admiral, Dysori, Military, Unique"	8		1	3	4	4							autoinitiates Hero combat w/ Muero hero;  +2 damage in ship combat
+Prefect Lusana Alsyriun	Prime	Prefect_Lusana_Alsyriun	F	D	Hero	"Admiral, Dysori, Military"	4		1	3	3	3							"if PLA is on one of 2 synced ships, each ship inflicts +1 damage"
+Primaag Lotraag	Prime	Primaag_Lotraag	F	M	Hero	"Admiral, Military, Muero, Unique"	8		1	5	3	4							Combat React: spend 1 Energy to inflict combat damage after doing damage 1rst time
+Primaag Suutraal	Prime	Primaag_Suutraal	F	M	Hero	"Admiral, Military, Muero, Unique"	6	1	0	3	4	4							"If only admiral you control in combat, opposing ships inflict -1 damage (minimum 0)"
+Primaag Taarkiis	Prime	Primaag_Taarkiis	R	M	Hero	"Admiral, Military, Muero, Unique"	7		2	3	5	4							Combat React: cancel React tactical card played by opponent
+Prime Tatia Vantisus	Prime	Prime_Tatia_Vantisus	F	D	Hero	"Captain, Dysori, Military"	4		3	1	3	2							"Limited Any: if on ship, Tatia gains text of target Military Hero"
+Promethea Zermius	Prime	Promethea_Zermius	C	D	Hero	"Dysori, Explore 1, Scientist"	3		3	0	2	1							"Explore:1, Scientist-Move Promethea Zermius to planet if on ship"
+Promise of Great Rewards	Prime	Promise_of_Great_Rewards	C		Tactical	Propaganda	3		0										Diplomat gains control of target Hero w/ influence <=4.  Move Hero to your Homeworld
+Protect	Prime	Protect	F		Support	"Gear, Voicing"	2		2										"React: prevents up to Subject's Influence of damage to ship, planet, hero"
+Quarzius III	Prime	Quarzius_III	U		Planet	Restricted	4		3							1	7	4	
+Queen Helena Myrianis	Prime	Queen_Helena_Myrianis	F	D	Hero	"Diplomat, Dysori, Military, Restricted"	2		1	2	1	3							"deploys at any planet. React: If not at own star system, can cancel propaganda or game effect"
+Quick Reflexes	Prime	Quick_Reflexes	C		Tactical		1		3										prevent Hero damage or prevent 1 Ship damage
+Quick Reload	Prime	Quick_Reload	R		Tactical	Military	0	4	2										Combat React:  inflict combat damage again
+Radar Facility	Prime	Radar_Facility	R		Support	"Fixed, Installation"	2		4										Attacking player/allies can't play React cards during ship combat at location
+Ran'har	Prime	Ran'har	F	S	Hero	"Explore 3, Scientist, Soven, Voicing, Unique"	4		4	1	2	2							Explore:3
+Rarrkar Draxx Narr	Prime	Rarrkar_Draxx_Narr	C	M	Hero	"Captain, Explore 1, Military, Muero"	4		3	1	2	3							Explore:1-pay 2 resources to put Planet card in Draw pile into hand. Reshuffle
+Rarrkar Nebb Charr	Prime	Rarrkar_Nebb_Charr	C	M	Hero	"Captain, Military, Muero"	4		2	4	2	1							do not need to issue command to attack at location of ship
+Reanna Tyrsus	Prime	Reanna_Tyrsus	F	D	Hero	"Dysori, Military, Pilot"	2		4	1	1	1							React: +1 damage for each ship if using Sync trait
+Reflect	Prime	Reflect	R		Support	"Gear, Voicing"	4		0										React: use influence to inflict incoming damage back to target ship
+Regnuu Kraag	Prime	Regnuu_Kraag	F	M	Planet	"Desert, Homeworld, Restricted"	4						4	4	3	2	12	1	"Combat: 4/4, Power 3, Desert. Once per turn, declare attack or combat action w/out issuing command"
+Reinforced Armor	Prime	Reinforced_Armor	C		Tactical	Military	0	4	3										prevent 1 damage to shiop
+Reinforced Hulls	Prime	Reinforced_Hulls	F		Advantage														ships have +1 printed structure
+Reinforcements	Prime	Reinforcements	C		Tactical		1	5	2										spend 1 energy to move adjacent ship to combat
+Remote Outpost	Prime	Remote_Outpost	C		Support	"Fixed, Installation"	4		2							1	2		
+Repair Materials	Prime	Repair_Materials	C		Support	Retrofit	2		3										remove 1 damage from Ship
+Repair Ship	Prime	Repair_Ship	C		Ship	"Mercenary, Move 1"	2	3	4				1	2	2		2		Move:1-remove 2 damage from Ship at Repair Ship's location.
+Research Center	Prime	Research_Center	R		Planet	Restricted	5		2							0	6	4	"once per turn, play card for -1 tech requirement"
+Research Facility	Prime	Research_Facility	F		Support	"Fixed, Installation"	3	5	2										+1 Tech
+Resourceful Planning	Prime	Resourceful_Planning	R		Advantage														Limited End:  issue 3 commands to gain +1 tech
+Revenge	Prime	Revenge	F		Tactical		2		1										React: play as ship or hero terminated/recycled.  Others get +2/-1 combat until end of turn
+Rise of the Populace	Prime	Rise_of_the_Populace	U		Tactical	Propaganda	5		1										need to pay +3 resources to actually conquer planet (structure sets to 1)
+Rupert Einstein	Prime	Rupert_Einstein	F	H	Hero	"Human, Scientist, Unique"	5		4	0	2	1							End: pay 4 Resources to gain +1 Tech
+Sabotage	Prime	Sabotage	C		Tactical		1		0										Spy location-target Ship inflicts Gun damage on itself minus 1 (minimum 1)
+Saboteur	Prime	Saboteur	C		Hero	"Human, Spy"	3		1	1	2	0							inflict 1 Piercing damage on target ship at Saboteur's location
+Sacrifice	Prime	Sacrifice	C		Tactical		0		0										spend 1 energy for other ship to take damage instead
+Salvage Ship	Prime	Salvage_Ship	U		Ship	Move 1	3	4	4				0	2	2		2		Move:1-gain ships printed structre -1 (minimum 0) if in own star system
+Saul Hernandez	Prime	Saul_Hernandez	R	H	Hero	"Admiral, Human, Military, Unique"	5		3	3	3	3							ships in fleet have +1/+0 combat unless another Admiral is in the same fleet
+Science Revolution	Prime	Science_Revolution	F		Advantage														once per turn tech requirement is lowered by 1 (minimum 0)
+Science Ship	Prime	Science_Ship	F		Ship	"Explore 0, Move 2"	3	1	0				0	2	2		2		"Move:2 outside own star system, gain +1 tech. Main, gain +1 tech (outside own star system)"
+Science Station	Prime	Science_Station	C		Ship	Move 0	4	6	1				0	3	2		4		Move: 0-pay 2 resources to search for Explore/Scientist card-issue Command and pay cost to deploy
+Scorched World	Prime	Scorched_World	F		Planet	"Gaseous, Restricted"	2		1							1	4	2	
+Secret Agenda	Prime	Secret_Agenda	C		Tactical		0		4										gain +3 Tech if at least one of own planets conquered and opponents have tech >= 2 more than yours
+Secret Mine	Prime	Secret_Mine	C		Support	"Fixed, Installation"	3		4							1			
+Secrets of the Ancients	Prime	Secrets_of_the_Ancients	R		Tactical		*	1	0										Main: pay resource cost of non-homeworld planet to reset exploration points (including own system). Planet can't have remaining exploration points
+Sensor Problem	Prime	Sensor_Problem	C		Tactical		0		2										Spy prevents ship from moving next turn
+Sensor Trick	Prime	Sensor_Trick	U	M	Tactical	Military	0	8	4										prevent all of initial damage in combat
+Sgt. Beat	Prime	Sgt_Beat	F	H	Hero	"Human, Military"	0		2	1	1	1							command not needed to deploy Sgt. Beat
+Shackled	Prime	Shackled	C		Tactical		*		0										Pay resources = target's influence to place Hero out of play. Owner must pay Influence + 1 to return to play
+Shamed	Prime	Shamed	U		Fate														turn all target player's heroes until next turn's reset phase
+Shield Disruption Generator	Prime	Shield_Disruption_Generator	C		Support	Installation	3	4	2										ships not controlled at Planet location have -0/-1 combat (minimum 0/1)
+Shield Disruptor	Prime	Shield_Disruptor	C		Support	"Retrofit, Weapon"	3	5	0										target ship at locaton -0/-1 until end of turn (0/1 minimum)
+Shield Enhancer	Prime	Shield_Enhancer	C		Support	"Retrofit, Weapon"	3	5	0										give subject ship +0/+1 until end of combat turn
+Simon Christiansen	Prime	Simon_Christiansen	F	H	Hero	"Diplomat, Human, Unique"	8		4	0	5	7							"deploys at any planet.  Attach The Book 0 cost, at non-Homeworld, location can't be targeted"
+Skimmer	Prime	Skimmer	C	H	Ship	"Fighter, Human, Military, Move 2"	2		4				1	1	2		3		Move:2
+Slipstream	Prime	Slipstream	C		Tactical		0	5	2										"React: if ships move adjacent to Firestorm, move target ship you control to that location."
+Snub Fighter	Prime	Snub_Fighter	F	D	Ship	"Dysori, Fighter, Military, Move 2, Sync"	3	2	2				3	2	2		2		"Sync, Move:2"
+Sorvina Tridius	Prime	Sorvina_Tridius	U		Hero	"Dysori, Mercenary"	5		3	2	3	4							deploy at any planet-can do damage to others at same cost to self
+Sorvius I	Prime	Sorvius_I	F		Planet	"Forest, Restricted"	5		4							2	5	3	Muero player can't choose as starting planet.  Opponents can deploy heroes
+Stick in the Wheel	Prime	Stick_in_the_Wheel	U		Fate														recycle target support card
+Stolen Artifacts	Prime	Stolen_Artifacts	U		Tactical		6		2										Main: target loses Tech equal to top card's Cosmic Value (minimum of starting Tech)
+Stolen Technology	Prime	Stolen_Technology	U		Advantage														deploy support and ship cards of other races  at +4 tech requirements.
+Sudden Strike	Prime	Sudden_Strike	R		Tactical	Military	1	6	0										Combat React: target spends 1 Energy to prevent Cosmic Value worth of damage
+Super Heated	Prime	Super_Heated	C		Fate		0												Ships moving into Firestorm until end of next turn take +1 Piercing damage
+Sweet Talker	Prime	Sweet_Talker	C		Tactical	Propaganda	0		2										Hero gets +2 influence until end of turn
+Tactical Bomb	Prime	Tactical_Bomb	U		Support	"Gear, Weapon"	4		0										"after third reset phase, inflict 3 piercing damage to subject planet"
+Take Charge	Prime	Take_Charge	F		Fate														"during next turn, gain +2 maximum commands"
+Tech Saboteur	Prime	Tech_Saboteur	U		Tactical		4		0										reduce tech by -1 (to minimum of starting tech)
+Terraform Company	Prime	Terraform_Company	C		Support	"Fixed, Installation"	3	4	0							1	1		
+The Ancient One	Prime	The_Ancient_One	F		Hero	"Diplomat, Oracle"	4		1	0	1	3							deployed at any planet.  Pay 3 resources to choose 2 random cards from opponent. Look and recycle 1.
+The Book	Prime	The_Book	F	H	Support	"Gear, Unique"	6		4										"Limited Main: CV > target influence, gain control of Hero at that location"
+The Head of K'vaan	Prime	The_Head_of_K'vaan	F	M	Support	"Gear, Muero, Unique"	4		4	1	1	1							"subject hereo can't be targeted by cards, game effects, or attacks"
+The Seer	Prime	The_Seer	F	S	Hero	"Oracle, Unique"	4		4	0	2	3							"non-Soven may deploy for +2 resources, look at top draw card, place at top, bottom, or recycle"
+Think Tank	Prime	Think_Tank	R		Fate														gain +1 Tech
+Titanium Hull	Prime	Titanium_Hull	F		Support	"Fixed, Retrofit"	2	5	4										adds 3 to structure
+Training	Prime	Training	C		Tactical		1		2										"Target Hero gets +1 to one of combat, life, influence"
+Transfer Information	Prime	Transfer_Information	C		Tactical	Propaganda	1		4										target player discards card at random from hand
+Trin'yak	Prime	Trin'yak	F	S	Hero	"Scientist, Soven"	3		3	0	2	2							Main: remove 1 damage point from planet at location
+Trohh Grozz	Prime	Trohh_Grozz	F	M	Hero	"Assassin, Muero, Restricted, Spy"	4		4	2	3	1							+2 damage in Hero Combat.  React: opponent card +1 resource if at uncontrolled planet
+Veross Agent	Prime	Veross_Agent	U		Hero	"Restricted, Spy, Veross"	3		2	1	2	2							"Main: terminate to deploy ship, hero, support card of another race at normal cost"
+War	Prime	War	R	H	Ship	"Battleship, Human, Military, Move 2, Unique"	11	6	4				4	3	3		7		Move: 2
+War Effort	Prime	War_Effort	R		Fate														"until end of next turn, players may play Military cards for -1 resource (minimum 0)"
+War Hero	Prime	War_Hero	C		Tactical		2		1										Hero gains Military trait
+War of Words	Prime	War_of_Words	F		Fate														"React: until end of next turn, diplomats can cancel attacks"
+Weapon Charger	Prime	Weapon_Charger	C		Support	"Retrofit, Weapon"	3	5	0										ship gains +1/+0 combat until end of turn
+Weapons Test Facility	Prime	Weapons_Test_Facility	U		Support	"Installation, Restricted"	4	5	1							1			weapons controlled and subjects inflict +1 damage
+Will of the Primaag	Prime	Will_of_the_Primaag	F	M	Fate														Combat: sacrifice ships to inflict printed Structure damage on all ships in opposing fleet
+Wrath	Prime	Wrath	U		Support	"Gear, Voicing"	3		1										"inflict Influence of damage to target ship, planet, hero"
+Xelmon Gardens	Prime	Xelmon_Gardens	F	S	Support	"Installation, Unique"	4	5	2							1			"only 1 copy in deck.  When subject planet conquered, next ship attack does double damage"
+Xermal	Prime	Xermal	U	S	Hero	"Military, Soven"	6		1	3	3	3							Combat-opposing ships -1/-0 (minimum 0/1) until end of combat
+Year of Plenty	Prime	Year_of_Plenty	F		Fate														"top card can be deployed immediately for -3 resources if ship, hero, support (minimum 0) w/o issuing command"
+Y'Mvalla	Prime	Y'Mvalla	F	S	Planet	"Forest, Homeworld, Restricted"	3						2	2	3	2	9	1	"Homeworld, Forest Combat 2/2, Power 3.  Limited Combat: issue 3 commands to end combat in own star system and not Homeworld"
+You're Mine Now	Prime	You're_Mine_Now	C		Tactical		1	3	1										cancel card or game effect played by defending player
+Zulania Serinius	Prime	Zulania_Serinius	C	D	Hero	"Dysori, Explore 1, Pilot"	4		2	0	2	1							Explore:1  add +1 to ship's Move
+Zy'pul	Prime	Zy'pul	C	S	Hero	"Diplomat, Scientist, Soven"	5		3	1	3	3							move target ship with resource cost 4 or less into your fleet

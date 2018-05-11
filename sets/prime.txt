@@ -1,2 +1,0 @@
-Name	Set	ImageFile	Expansion	Rarity	Type	Clan	Group	Capacity	Discipline	PCost	BCost	Text	Artist
-.44 Magnum	LoB	44magnum	Legacies of Blood	Jyhad:C, VTES:C, Sabbat:C, SW:PB, CE:PTo3, LoB:PO3	Equipment					2		Weapon, gun. 2R damage each strike, with an optional maneuver each combat.	Ne Ne Thomas; Greg Simanson
