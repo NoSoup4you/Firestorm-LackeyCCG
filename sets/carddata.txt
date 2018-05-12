@@ -91,7 +91,7 @@ Fighter Scout (Human)	Prime	Fighter_Scout_(Human)	F	H	Ship	"Explore 1, Fighter, 
 Firestorm Flare	Prime	Firestorm_Flare	C		Fate														"2 Piercing damage on ALL ships in Firestorm, 1 Piercing to Adjacent ships"
 Fleet Carrier	Prime	Fleet_Carrier	F	M	Ship	"Carrier, Military, Move 2, Muero"	11	5	0				2	3	4		4		Move:2 Limited Main: pay 2 resources to take Fighter card from recycle pile to your hand
 Forest World	Prime	Forest_World	C		Planet	"Forest, Restricted"	2		1							1	4	3	
-Foz	Prime	Foz	C	S	Hero	"Scientist, Soven, Voicing"	4		3	0	2	2							"Voicing:2, +1 Tech"
+Foz	Prime	Foz	C	S	Hero	"Scientist, Soven, Voicing"	4		3	0	2	2							"+1 Tech"
 Freak Asteroid	Prime	Freak_Asteroid	U		Fate														recycle target ship with structure of 3 or less
 Frozen World	Prime	Frozen_World	U		Planet	"Mineral, Restricted"	4		3							1	6	4	Mineral
 Fusion Reactor	Prime	Fusion_Reactor	R		Support	"Fixed, Installation"	4	4	1							2			subject planet has +1 power
