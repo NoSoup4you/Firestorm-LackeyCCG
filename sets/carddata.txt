@@ -1,4 +1,8 @@
 Name	Set	ImageFile	Rarity	Race	Type	Traits	Cost	Tech Req	Cosmic	Combat	Life	Influence	Guns	Shields	Power	Resources Produced	Structure	Tech Value	Text
+The Humans	Prime	The_Humans	F	H	Alien														
+The Dysori	Prime	The_Dysori	F	D	Alien														
+The Muero	Prime	The_Muero	F	M	Alien														
+The Soven	Prime	The_Soven	F	S	Alien														
 Abesu	Prime	Abesu	U		Planet	Restricted	3		4							1	6	2	
 Academy	Prime	Academy	C		Support	Installation	3		0							0	0	0	Limited Any-2 R-->discard and draw
 Advanced Technology	Prime	Advanced_Technology	F		Advantage														need 3 less Tech to achieve a Transcendent Victory
@@ -57,8 +61,8 @@ Death	Prime	Death	R	H	Ship	"Battleship, Human, Military, Move 2, Unique"	11	6	4	
 Death Blow	Prime	Death_Blow	C		Tactical		0		4										Hero remains the attacking hero until end of next round
 Decoy	Prime	Decoy	C		Tactical		1		2										cancel game effect or attack that targets a Hero
 Desert Wasteworld	Prime	Desert_Wasteworld	U		Planet	"Desert, Restricted"	1		2							0	6	3	
-Destroyer	Prime	Destroyer_(Human)	F	H	Ship	"Destroyer, Human, Military, Move 2"	5	5	2				3	2	2		3		Move:2
-Destroyer	Prime	Destroyer_(Muero)	F	M	Ship	"Destroyer, Muero, Military, Move 2"	6	3	2				3	3	2		3		Move:2 Limited Combat:  gain +1 energy (have more energy than power)
+Destroyer (Human)	Prime	Destroyer_(Human)	F	H	Ship	"Destroyer, Human, Military, Move 2"	5	5	2				3	2	2		3		Move:2
+Destroyer (Muero)	Prime	Destroyer_(Muero)	F	M	Ship	"Destroyer, Muero, Military, Move 2"	6	3	2				3	3	2		3		Move:2 Limited Combat:  gain +1 energy (have more energy than power)
 Discovered Technology	Prime	Discovered_Technology	F	H	Fate														gain +2 Tech
 Divine	Prime	Divine	F		Support	"Gear, Voicing"	4		3										Look at top cards of target's draw pile equal to subject's Influence-replace in any order
 Dr. Andreas Krieg	Prime	Dr_Andreas_Krieg	C		Hero	"Human, Researcher, Scientist"	2		0	0	1	0							Forest Planet at location produces +1 resource

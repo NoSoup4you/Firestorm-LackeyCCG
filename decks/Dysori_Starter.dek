@@ -1,0 +1,60 @@
+<deck version="0.8">
+	<meta>
+		<game>Firestorm</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Ambassador&apos;s_Aide">Ambassador&apos;s Aide</name><set>Prime</set></card>
+		<card><name id="Assassination_Attempt">Assassination Attempt</name><set>Prime</set></card>
+		<card><name id="Blood_For_Blood">Blood For Blood</name><set>Prime</set></card>
+		<card><name id="Bureaucratic_Mismanagement">Bureaucratic Mismanagement</name><set>Prime</set></card>
+		<card><name id="City">City</name><set>Prime</set></card>
+		<card><name id="City">City</name><set>Prime</set></card>
+		<card><name id="Cloning">Cloning</name><set>Prime</set></card>
+		<card><name id="Concentrated_Effort">Concentrated Effort</name><set>Prime</set></card>
+		<card><name id="Cry_to_the_Heavens">Cry to the Heavens</name><set>Prime</set></card>
+		<card><name id="Cut_the_Red_Tape">Cut the Red Tape</name><set>Prime</set></card>
+		<card><name id="Explorer_(Dysori)">Explorer (Dysori)</name><set>Prime</set></card>
+		<card><name id="Explorer_(Dysori)">Explorer (Dysori)</name><set>Prime</set></card>
+		<card><name id="Fighter_(Dysori)">Fighter (Dysori)</name><set>Prime</set></card>
+		<card><name id="Fighter_(Dysori)">Fighter (Dysori)</name><set>Prime</set></card>
+		<card><name id="Gunship">Gunship</name><set>Prime</set></card>
+		<card><name id="Gunship">Gunship</name><set>Prime</set></card>
+		<card><name id="Heavy_Cruiser">Heavy Cruiser</name><set>Prime</set></card>
+		<card><name id="Heavy_Cruiser">Heavy Cruiser</name><set>Prime</set></card>
+		<card><name id="Hidden_Resources">Hidden Resources</name><set>Prime</set></card>
+		<card><name id="Hidden_Resources">Hidden Resources</name><set>Prime</set></card>
+		<card><name id="Hydro-Extraction_Plant">Hydro-Extraction Plant</name><set>Prime</set></card>
+		<card><name id="Lyseria_Truvalis">Lyseria Truvalis</name><set>Prime</set></card>
+		<card><name id="Lyseria_Truvalis">Lyseria Truvalis</name><set>Prime</set></card>
+		<card><name id="Martyred_Leader">Martyred Leader</name><set>Prime</set></card>
+		<card><name id="Mercenary_Captain">Mercenary Captain</name><set>Prime</set></card>
+		<card><name id="Octavia_Julianis">Octavia Julianis</name><set>Prime</set></card>
+		<card><name id="Octavia_Julianis">Octavia Julianis</name><set>Prime</set></card>
+		<card><name id="Passage_to_Mars">Passage to Mars</name><set>Prime</set></card>
+		<card><name id="Pilot_Training_Facility">Pilot Training Facility</name><set>Prime</set></card>
+		<card><name id="Pilot_Training_Facility">Pilot Training Facility</name><set>Prime</set></card>
+		<card><name id="Prefect_Lusana_Alsyriun">Prefect Lusana Alsyriun</name><set>Prime</set></card>
+		<card><name id="Prime_Tatia_Vantisus">Prime Tatia Vantisus</name><set>Prime</set></card>
+		<card><name id="Queen_Helena_Myrianis">Queen Helena Myrianis</name><set>Prime</set></card>
+		<card><name id="Reanna_Tyrsus">Reanna Tyrsus</name><set>Prime</set></card>
+		<card><name id="Reanna_Tyrsus">Reanna Tyrsus</name><set>Prime</set></card>
+		<card><name id="Research_Facility">Research Facility</name><set>Prime</set></card>
+		<card><name id="Revenge">Revenge</name><set>Prime</set></card>
+		<card><name id="Sacrifice">Sacrifice</name><set>Prime</set></card>
+		<card><name id="Sacrifice">Sacrifice</name><set>Prime</set></card>
+		<card><name id="Shield_Enhancer">Shield Enhancer</name><set>Prime</set></card>
+		<card><name id="Snub_Fighter">Snub Fighter</name><set>Prime</set></card>
+		<card><name id="Snub_Fighter">Snub Fighter</name><set>Prime</set></card>
+		<card><name id="Terraform_Company">Terraform Company</name><set>Prime</set></card>
+		<card><name id="Training">Training</name><set>Prime</set></card>
+		<card><name id="Training">Training</name><set>Prime</set></card>
+	</superzone>
+	<superzone name="Starting Cards">
+		<card><name id="The_Dysori">The Dysori</name><set>Prime</set></card>
+		<card><name id="Arcadius_Prime">Arcadius Prime</name><set>Prime</set></card>
+		<card><name id="Forest_World">Forest World</name><set>Prime</set></card>
+		<card><name id="Insurrection_Support">Insurrection Support</name><set>Prime</set></card>
+		<card><name id="Mining_Asteroid">Mining Asteroid</name><set>Prime</set></card>
+		<card><name id="Sorvius_I">Sorvius I</name><set>Prime</set></card>
+	</superzone>
+</deck>
