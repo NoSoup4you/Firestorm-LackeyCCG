@@ -1,0 +1,60 @@
+<deck version="0.8">
+	<meta>
+		<game>Firestorm</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Academy">Academy</name><set>Prime</set></card>
+		<card><name id="Bloodlust">Bloodlust</name><set>Prime</set></card>
+		<card><name id="City">City</name><set>Prime</set></card>
+		<card><name id="City">City</name><set>Prime</set></card>
+		<card><name id="Cut_the_Red_Tape">Cut the Red Tape</name><set>Prime</set></card>
+		<card><name id="Cut_the_Red_Tape">Cut the Red Tape</name><set>Prime</set></card>
+		<card><name id="Destroyer_(Muero)">Destroyer (Muero)</name><set>Prime</set></card>
+		<card><name id="Destroyer_(Muero)">Destroyer (Muero)</name><set>Prime</set></card>
+		<card><name id="Elite_Fighter">Elite Fighter</name><set>Prime</set></card>
+		<card><name id="Elite_Fighter">Elite Fighter</name><set>Prime</set></card>
+		<card><name id="Fleet_Carrier">Fleet Carrier</name><set>Prime</set></card>
+		<card><name id="Hidden_Resources">Hidden Resources</name><set>Prime</set></card>
+		<card><name id="Hidden_Resources">Hidden Resources</name><set>Prime</set></card>
+		<card><name id="Juggernaut">Juggernaut</name><set>Prime</set></card>
+		<card><name id="Juggernaut">Juggernaut</name><set>Prime</set></card>
+		<card><name id="Kraroon_Verixx">Kraroon Verixx</name><set>Prime</set></card>
+		<card><name id="Massive_Buildup">Massive Buildup</name><set>Prime</set></card>
+		<card><name id="Mercenary_Fighter">Mercenary Fighter</name><set>Prime</set></card>
+		<card><name id="Mercenary_Fighter">Mercenary Fighter</name><set>Prime</set></card>
+		<card><name id="Mercenary_Destroyer">Mercenary Destroyer</name><set>Prime</set></card>
+		<card><name id="Mine_Field">Mine Field</name><set>Prime</set></card>
+		<card><name id="Nurall_Tulaak">Nurall Tulaak</name><set>Prime</set></card>
+		<card><name id="Pillage">Pillage</name><set>Prime</set></card>
+		<card><name id="Pillage">Pillage</name><set>Prime</set></card>
+		<card><name id="Power_Cell">Power Cell</name><set>Prime</set></card>
+		<card><name id="Power_Cell">Power Cell</name><set>Prime</set></card>
+		<card><name id="Primaag_Lotraag">Primaag Lotraag</name><set>Prime</set></card>
+		<card><name id="Primaag_Suutraal">Primaag Suutraal</name><set>Prime</set></card>
+		<card><name id="Reinforced_Armor">Reinforced Armor</name><set>Prime</set></card>
+		<card><name id="Reinforcements">Reinforcements</name><set>Prime</set></card>
+		<card><name id="Reinforcements">Reinforcements</name><set>Prime</set></card>
+		<card><name id="Repair_Ship">Repair Ship</name><set>Prime</set></card>
+		<card><name id="Repair_Ship">Repair Ship</name><set>Prime</set></card>
+		<card><name id="Salvage_Ship">Salvage Ship</name><set>Prime</set></card>
+		<card><name id="Secret_Mine">Secret Mine</name><set>Prime</set></card>
+		<card><name id="Secret_Mine">Secret Mine</name><set>Prime</set></card>
+		<card><name id="Terraform_Company">Terraform Company</name><set>Prime</set></card>
+		<card><name id="Terraform_Company">Terraform Company</name><set>Prime</set></card>
+		<card><name id="The_Ancient_One">The Ancient One</name><set>Prime</set></card>
+		<card><name id="The_Head_of_K&apos;vaan">The Head of K&apos;vaan</name><set>Prime</set></card>
+		<card><name id="Titanium_Hull">Titanium Hull</name><set>Prime</set></card>
+		<card><name id="Trohh_Grozz">Trohh Grozz</name><set>Prime</set></card>
+		<card><name id="Weapon_Charger">Weapon Charger</name><set>Prime</set></card>
+		<card><name id="Will_of_the_Primaag">Will of the Primaag</name><set>Prime</set></card>
+		<card><name id="Year_of_Plenty">Year of Plenty</name><set>Prime</set></card>
+	</superzone>
+	<superzone name="Starting Cards">
+		<card><name id="The_Muero">The Muero</name><set>Prime</set></card>
+		<card><name id="Mining_Asteroid">Mining Asteroid</name><set>Prime</set></card>
+		<card><name id="Frozen_World">Frozen World</name><set>Prime</set></card>
+		<card><name id="Muero_Ragnuu_Prime">Muero Ragnuu Prime</name><set>Prime</set></card>
+		<card><name id="Regnuu_Kraag">Regnuu Kraag</name><set>Prime</set></card>
+		<card><name id="Reinforced_Hulls">Reinforced Hulls</name><set>Prime</set></card>
+	</superzone>
+</deck>

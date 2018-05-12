@@ -1,0 +1,60 @@
+<deck version="0.8">
+	<meta>
+		<game>Firestorm</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Ancient_Allies">Ancient Allies</name><set>Prime</set></card>
+		<card><name id="Back_Alley_Payoff">Back Alley Payoff</name><set>Prime</set></card>
+		<card><name id="Back_Alley_Payoff">Back Alley Payoff</name><set>Prime</set></card>
+		<card><name id="Blood_For_Blood">Blood For Blood</name><set>Prime</set></card>
+		<card><name id="Cannon_Platform">Cannon Platform</name><set>Prime</set></card>
+		<card><name id="Cannon_Platform">Cannon Platform</name><set>Prime</set></card>
+		<card><name id="Ceres">Ceres</name><set>Prime</set></card>
+		<card><name id="Chemical_Plant">Chemical Plant</name><set>Prime</set></card>
+		<card><name id="City">City</name><set>Prime</set></card>
+		<card><name id="City">City</name><set>Prime</set></card>
+		<card><name id="Creative_Invention">Creative Invention</name><set>Prime</set></card>
+		<card><name id="Cut_the_Red_Tape">Cut the Red Tape</name><set>Prime</set></card>
+		<card><name id="Cut_the_Red_Tape">Cut the Red Tape</name><set>Prime</set></card>
+		<card><name id="Divine">Divine</name><set>Prime</set></card>
+		<card><name id="Experimental_Force_Field">Experimental Force Field</name><set>Prime</set></card>
+		<card><name id="Explorer_(Soven)">Explorer (Soven)</name><set>Prime</set></card>
+		<card><name id="Explorer_(Soven)">Explorer (Soven)</name><set>Prime</set></card>
+		<card><name id="Extended_Meeting">Extended Meeting</name><set>Prime</set></card>
+		<card><name id="Fighter_(Soven)">Fighter (Soven)</name><set>Prime</set></card>
+		<card><name id="Fighter_(Soven)">Fighter (Soven)</name><set>Prime</set></card>
+		<card><name id="Government_Liason">Government Liason</name><set>Prime</set></card>
+		<card><name id="Government_Liason">Government Liason</name><set>Prime</set></card>
+		<card><name id="Guardian_Platform">Guardian Platform</name><set>Prime</set></card>
+		<card><name id="Guardian_Platform">Guardian Platform</name><set>Prime</set></card>
+		<card><name id="Heal">Heal</name><set>Prime</set></card>
+		<card><name id="Herbalist">Herbalist</name><set>Prime</set></card>
+		<card><name id="Hidden_Resources">Hidden Resources</name><set>Prime</set></card>
+		<card><name id="Hidden_Resources">Hidden Resources</name><set>Prime</set></card>
+		<card><name id="Hydroponic_Farm">Hydroponic Farm</name><set>Prime</set></card>
+		<card><name id="Mercenary_Fighter">Mercenary Fighter</name><set>Prime</set></card>
+		<card><name id="Mercenary_Fighter">Mercenary Fighter</name><set>Prime</set></card>
+		<card><name id="Miyal">Miyal</name><set>Prime</set></card>
+		<card><name id="Planetary_Cannons">Planetary Cannons</name><set>Prime</set></card>
+		<card><name id="Planetary_Cannons">Planetary Cannons</name><set>Prime</set></card>
+		<card><name id="Protect">Protect</name><set>Prime</set></card>
+		<card><name id="Ran&apos;har">Ran&apos;har</name><set>Prime</set></card>
+		<card><name id="Shield_Disruptor">Shield Disruptor</name><set>Prime</set></card>
+		<card><name id="Sweet_Talker">Sweet Talker</name><set>Prime</set></card>
+		<card><name id="Sweet_Talker">Sweet Talker</name><set>Prime</set></card>
+		<card><name id="Take_Charge">Take Charge</name><set>Prime</set></card>
+		<card><name id="Terraform_Company">Terraform Company</name><set>Prime</set></card>
+		<card><name id="The_Seer">The Seer</name><set>Prime</set></card>
+		<card><name id="Titanium_Hull">Titanium Hull</name><set>Prime</set></card>
+		<card><name id="Trin&apos;yak">Trin&apos;yak</name><set>Prime</set></card>
+		<card><name id="Xelmon_Gardens">Xelmon Gardens</name><set>Prime</set></card>
+	</superzone>
+	<superzone name="Starting Cards">
+		<card><name id="The_Soven">The Soven</name><set>Prime</set></card>
+		<card><name id="Science_Revolution">Science Revolution</name><set>Prime</set></card>
+		<card><name id="Methane_Giant">Methane Giant</name><set>Prime</set></card>
+		<card><name id="Mining_Asteroid">Mining Asteroid</name><set>Prime</set></card>
+		<card><name id="Y&apos;Mvalla">Y&apos;Mvalla</name><set>Prime</set></card>
+		<card><name id="Garden_World">Garden World</name><set>Prime</set></card>
+	</superzone>
+</deck>

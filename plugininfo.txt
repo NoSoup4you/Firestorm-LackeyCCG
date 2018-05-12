@@ -6,9 +6,11 @@
 
 <deckzone>
       <label>Deck</label>
-      <gamezonetoloadto>Library</gamezonetoloadto>
-      <shuffle>yes</shuffle>
- </deckzone>
+</deckzone>
+
+<deckzone>
+      <label>Starting Cards</label>
+</deckzone>
 
 <gamezone>
       <label>Hand</label>
@@ -30,50 +32,103 @@
       <visibletoowner>yes</visibletoowner>
       <visibletoothers>yes</visibletoothers>
  </gamezone>
-
- <phase><label>Unlock</label></phase>
- <phase><label>Master</label></phase>
- <phase><label>Minion</label></phase>
- <phase><label>Influence</label></phase>
- <phase><label>Discard</label></phase>
-
-<generalfunction><label>Unlock All</label><kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></generalfunction>
-<generalfunction><label>Draw Library</label><kind>DRAWCARD</kind><includeasbutton>yes</includeasbutton></generalfunction>
-<generalfunction><label>Show Top Library</label><kind>DRAWCARDTOTABLE</kind><includeasbutton>yes</includeasbutton></generalfunction>
-<generalfunction><label>Roll D6</label><kind>ROLLD6</kind></generalfunction>
-<generalfunction><label>Roll D20</label><kind>ROLLD20</kind></generalfunction>
-<generalfunction><label>Flip Coin</label><kind>FLIPCOIN</kind></generalfunction>
-<generalfunction><label>Create EDGE</label><kind>SPAWNCARD</kind></generalfunction>
-<generalfunction>
-      <label>Cancel Draw</label><kind>TRANSFERCARD</kind>
-      <sourceowner>performer</sourceowner><sourcegamezone>Hand</sourcegamezone><sourceposition>top</sourceposition>
-     <destinationowner>performer</destinationowner><destinationgamezone>Library</destinationgamezone><destinationposition>top</destinationposition>
-      <includeasbutton>yes</includeasbutton>
- </generalfunction>
-<generalfunction>
-	<label>Draw Crypt</label><kind>TRANSFERCARD</kind>
-	<sourceowner>performer</sourceowner><sourcegamezone>Crypt</sourcegamezone><sourceposition>top</sourceposition>
-	<destinationowner>table</destinationowner><destinationposition>facedown</destinationposition>
-	<includeasbutton>yes</includeasbutton>
- </generalfunction>
-<generalfunction><label>Next Turn</label><kind>NEXTTURN</kind></generalfunction>
  
-<cardfunction><label>Unlock</label><kind>MAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
-<cardfunction><label>Lock</label><kind>MAKERIGHT90DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
-<cardfunction><label>Gain Blood</label><kind>ADDCOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton><PositionX>.84</PositionX><PositionY>.11</PositionY></cardfunction>
-<cardfunction><label>Burn Blood</label><kind>REMOVECOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton></cardfunction>
-<cardfunction><label>Gain Life</label><kind>ADDCOUNTER</kind><color>white</color><PositionX>.16</PositionX><PositionY>.11</PositionY></cardfunction>
-<cardfunction><label>Burn Life</label><kind>REMOVECOUNTER</kind><color>white</color></cardfunction>
-<cardfunction><label>Green Counter +1</label><kind>ADDCOUNTER</kind><color>green</color><PositionX>.16</PositionX><PositionY>.88</PositionY></cardfunction>
-<cardfunction><label>Green Counter -1</label><kind>REMOVECOUNTER</kind><color>green</color></cardfunction>
-<cardfunction><label>Orange Counter +1</label><kind>ADDCOUNTER</kind><color>orange</color><PositionX>.84</PositionX><PositionY>.88</PositionY></cardfunction>
-<cardfunction><label>Orange Counter -1</label><kind>REMOVECOUNTER</kind><color>orange</color></cardfunction>
-<cardfunction><label>Edit Note</label><kind>EDITNOTE</kind><PositionX>.4</PositionX><PositionY>.40</PositionY></cardfunction>
-<cardfunction><label>Turn Card</label><kind>TURNOVER</kind><includeasbutton>yes</includeasbutton></cardfunction>
-<cardfunction><label>Take Control</label><kind>CHANGEOWNER</kind></cardfunction>
-<cardfunction><label>Immune To Unlock All</label><kind>TOGGLETURNALLIMMUNITY</kind></cardfunction>
+ <gamezone>
+      <label>Starting Cards</label>
+      <visibletoowner>yes</visibletoowner>
+ </gamezone>
 
-<definition><kind>REUSECARDIMAGES</kind></definition>
+ <phase><label>Reset</label></phase>
+ <phase><label>Main</label></phase>
+ <phase><label>End</label></phase>
+
+<generalfunction>
+	<label>Draw</label>
+	<kind>DRAWCARD</kind>
+	<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+
+<generalfunction>
+	<label>Reveal</label>
+	<kind>TRANSFERCARD</kind>
+	<includeasbutton>yes</includeasbutton>
+	<sourcegamezone>Deck</sourcegamezone>
+	<destinationgamezone>Recycled</destinationgamezone>
+	</generalfunction>
+
+<generalfunction>
+	<label>Next Phase</label>
+	<kind>NEXTPHASE</kind>
+	<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+	
+<generalfunction>
+	<label>Unturn All</label>
+	<kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
+	<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+ 
+<cardfunction>
+	<label>Unturn</label>
+	<kind>MAKERIGHT0DEGREES</kind>
+	<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+	
+<cardfunction>
+	<label>Turn</label>
+	<kind>MAKERIGHT90DEGREES</kind>
+	<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+	
+<cardfunction>
+	<label>Flip</label>
+	<kind>TURNOVER</kind>
+	<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+
+<cardfunction>
+	<label>Add Power</label>
+	<kind>ADDCOUNTER</kind>
+	<color>green</color>
+	<includeasbutton>yes</includeasbutton>
+	<PositionX>.84</PositionX>
+	<PositionY>.11</PositionY>
+	</cardfunction>
+
+<cardfunction>
+	<label>Remove Power</label>
+	<kind>REMOVECOUNTER</kind>
+	<color>green</color>
+	<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+	
+<cardfunction>
+	<label>Add Damage</label>
+	<kind>ADDCOUNTER</kind>
+	<color>red</color>
+	<PositionX>.16</PositionX>
+	<PositionY>.11</PositionY>
+	<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+	
+<cardfunction><label>Remove Damage</label>
+	<kind>REMOVECOUNTER</kind>
+	<color>white</color>
+	<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+	
+<cardfunction>
+	<label>Edit Note</label>
+	<kind>EDITNOTE</kind>
+	<PositionX>.4</PositionX>
+	<PositionY>.40</PositionY>
+	</cardfunction>
+	
+<cardfunction>
+	<label>Take Control</label>
+	<kind>CHANGEOWNER</kind>
+	</cardfunction>
+
 <definition><kind>ISYOURFACEDOWNVISIBLE</kind><value>yes</value></definition>
 <definition><kind>RULEBOOKFILE</kind><value>firestormrulebook.pdf</value></definition>
 <definition><kind>KEEPDISCONNECTEDPLAYERCARDS</kind></definition>

@@ -1,0 +1,60 @@
+<deck version="0.8">
+	<meta>
+		<game>Firestorm</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Academy">Academy</name><set>Prime</set></card>
+		<card><name id="Calm_Words">Calm Words</name><set>Prime</set></card>
+		<card><name id="Calm_Words">Calm Words</name><set>Prime</set></card>
+		<card><name id="Cassandra_Sage">Cassandra Sage</name><set>Prime</set></card>
+		<card><name id="City">City</name><set>Prime</set></card>
+		<card><name id="City">City</name><set>Prime</set></card>
+		<card><name id="Conscience">Conscience</name><set>Prime</set></card>
+		<card><name id="Conscience">Conscience</name><set>Prime</set></card>
+		<card><name id="Creative_Invention">Creative Invention</name><set>Prime</set></card>
+		<card><name id="Destroyer_(Human)">Destroyer (Human)</name><set>Prime</set></card>
+		<card><name id="Discovered_Technology">Discovered Technology</name><set>Prime</set></card>
+		<card><name id="Energy_Enhancer">Energy Enhancer</name><set>Prime</set></card>
+		<card><name id="Escort">Escort</name><set>Prime</set></card>
+		<card><name id="Explorer_(Human)">Explorer (Human)</name><set>Prime</set></card>
+		<card><name id="Explorer_(Human)">Explorer (Human)</name><set>Prime</set></card>
+		<card><name id="Explorer_(Human)">Explorer (Human)</name><set>Prime</set></card>
+		<card><name id="Famine">Famine</name><set>Prime</set></card>
+		<card><name id="Fighter_(Human)">Fighter (Human)</name><set>Prime</set></card>
+		<card><name id="Fighter_(Human)">Fighter (Human)</name><set>Prime</set></card>
+		<card><name id="Fighter_Scout_(Human)">Fighter Scout (Human)</name><set>Prime</set></card>
+		<card><name id="Fighter_Scout_(Human)">Fighter Scout (Human)</name><set>Prime</set></card>
+		<card><name id="Glancing_Blow">Glancing Blow</name><set>Prime</set></card>
+		<card><name id="Glancing_Blow">Glancing Blow</name><set>Prime</set></card>
+		<card><name id="Gravity_Well_Slingshot">Gravity Well Slingshot</name><set>Prime</set></card>
+		<card><name id="Gravity_Well_Slingshot">Gravity Well Slingshot</name><set>Prime</set></card>
+		<card><name id="Hidden_Resources">Hidden Resources</name><set>Prime</set></card>
+		<card><name id="Hidden_Resources">Hidden Resources</name><set>Prime</set></card>
+		<card><name id="Homeworld_Recall">Homeworld Recall</name><set>Prime</set></card>
+		<card><name id="Hydroponic_Farm">Hydroponic Farm</name><set>Prime</set></card>
+		<card><name id="Ion_Cannon">Ion Cannon</name><set>Prime</set></card>
+		<card><name id="Kane_Richards">Kane Richards</name><set>Prime</set></card>
+		<card><name id="Pestilence">Pestilence</name><set>Prime</set></card>
+		<card><name id="Power_Cell">Power Cell</name><set>Prime</set></card>
+		<card><name id="Remote_Outpost">Remote Outpost</name><set>Prime</set></card>
+		<card><name id="Remote_Outpost">Remote Outpost</name><set>Prime</set></card>
+		<card><name id="Rupert_Einstein">Rupert Einstein</name><set>Prime</set></card>
+		<card><name id="Science_Ship">Science Ship</name><set>Prime</set></card>
+		<card><name id="Science_Ship">Science Ship</name><set>Prime</set></card>
+		<card><name id="Scorched_World">Scorched World</name><set>Prime</set></card>
+		<card><name id="Sgt_Beat">Sgt. Beat</name><set>Prime</set></card>
+		<card><name id="Sgt_Beat">Sgt. Beat</name><set>Prime</set></card>
+		<card><name id="Simon_Christiansen">Simon Christiansen</name><set>Prime</set></card>
+		<card><name id="The_Book">The Book</name><set>Prime</set></card>
+		<card><name id="War_of_Words">War of Words</name><set>Prime</set></card>
+	</superzone>
+	<superzone name="Starting Cards">
+		<card><name id="The_Humans">The Humans</name><set>Prime</set></card>
+		<card><name id="Advanced_Technology">Advanced Technology</name><set>Prime</set></card>
+		<card><name id="Earth">Earth</name><set>Prime</set></card>
+		<card><name id="Forest_World">Forest World</name><set>Prime</set></card>
+		<card><name id="Frozen_World">Frozen World</name><set>Prime</set></card>
+		<card><name id="Mars">Mars</name><set>Prime</set></card>
+		<card><name id="Mining_Asteroid">Mining Asteroid</name><set>Prime</set></card>
+	</superzone>
+</deck>

@@ -1,9 +1,8 @@
 <version>
 
-<lastupdateYYMMDD>170522</lastupdateYYMMDD>
- <quality>HIGH</quality>
- <versionurl>http://www.lackeyccg.com/vtes/high/version.txt</versionurl>
- <updateurl>http://www.lackeyccg.com/vtes/high/updatelist.txt</updateurl>
- <message>VtES plugin update to version 2.72 Anthology version.</message>
+<lastupdateYYMMDD>180512</lastupdateYYMMDD>
+ <versionurl></versionurl>
+ <updateurl></updateurl>
+ <message></message>
 
 </version>
