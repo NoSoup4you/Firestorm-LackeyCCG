@@ -5,38 +5,74 @@
 <playerstat><label>Tech</label><initialvalue>0</initialvalue></playerstat>
 
 <deckzone>
-      <label>Deck</label>
-</deckzone>
+	<label>Deck</label>
+	</deckzone>
 
 <deckzone>
-      <label>Starting Cards</label>
-</deckzone>
+    <label>Starting Cards</label>
+	</deckzone>
 
 <gamezone>
-      <label>Hand</label>
-      <visibletoowner>yes</visibletoowner>
- </gamezone>
+	<label>Hand</label>
+	<visibletoowner>yes</visibletoowner>
+	</gamezone>
 
 <gamezone>
-      <label>Deck</label>
- </gamezone>
+    <label>Deck</label>
+	</gamezone>
 
 <gamezone>
-      <label>Recycled</label>
-      <visibletoowner>yes</visibletoowner>
-	  <visibletoothers>yes</visibletoothers>
- </gamezone>
+    <label>Recycled</label>
+    <visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+	</gamezone>
  
 <gamezone>
-      <label>Terminated</label>
-      <visibletoowner>yes</visibletoowner>
-      <visibletoothers>yes</visibletoothers>
- </gamezone>
+    <label>Terminated</label>
+    <visibletoowner>yes</visibletoowner>
+    <visibletoothers>yes</visibletoothers>
+	</gamezone>
  
  <gamezone>
-      <label>Starting Cards</label>
-      <visibletoowner>yes</visibletoowner>
- </gamezone>
+    <label>Starting Cards</label>
+    <visibletoowner>yes</visibletoowner>
+	</gamezone>
+ 
+ <gamezone>
+    <label>A</label>
+    <visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+	</gamezone>
+ 
+ <gamezone>
+    <label>B</label>
+    <visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+	</gamezone>
+ 
+ <gamezone>
+    <label>C</label>
+    <visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+	</gamezone>
+ 
+ <gamezone>
+    <label>D</label>
+    <visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+	</gamezone>
+ 
+ <gamezone>
+    <label>E</label>
+    <visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+	</gamezone>
+ 
+ <gamezone>
+    <label>F</label>
+    <visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+	</gamezone>
 
  <phase><label>Reset</label></phase>
  <phase><label>Main</label></phase>
@@ -54,12 +90,6 @@
 	<includeasbutton>yes</includeasbutton>
 	<sourcegamezone>Deck</sourcegamezone>
 	<destinationgamezone>Recycled</destinationgamezone>
-	</generalfunction>
-
-<generalfunction>
-	<label>Next Phase</label>
-	<kind>NEXTPHASE</kind>
-	<includeasbutton>yes</includeasbutton>
 	</generalfunction>
 	
 <generalfunction>
@@ -111,9 +141,10 @@
 	<includeasbutton>yes</includeasbutton>
 	</cardfunction>
 	
-<cardfunction><label>Remove Damage</label>
+<cardfunction>
+	<label>Remove Damage</label>
 	<kind>REMOVECOUNTER</kind>
-	<color>white</color>
+	<color>red</color>
 	<includeasbutton>yes</includeasbutton>
 	</cardfunction>
 	
@@ -132,4 +163,5 @@
 <definition><kind>ISYOURFACEDOWNVISIBLE</kind><value>yes</value></definition>
 <definition><kind>RULEBOOKFILE</kind><value>firestormrulebook.pdf</value></definition>
 <definition><kind>KEEPDISCONNECTEDPLAYERCARDS</kind></definition>
+<definition><kind>TABLEITEMSCALE</kind><value>75</value></definition>
 </plugin>

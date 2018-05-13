@@ -1,4 +1,4 @@
-RECENTDECK0:Dysori_Starter.dek
-RECENTDECK1:Human_Starter.dek
-RECENTDECK2:Muero_Starter.dek
-RECENTDECK3:Soven_Starter.dek
+RECENTDECK0:Human_Starter.dek
+RECENTDECK1:Dysori_Starter.dek
+RECENTDECK2:Soven_Starter.dek
+RECENTDECK3:Muero_Starter.dek

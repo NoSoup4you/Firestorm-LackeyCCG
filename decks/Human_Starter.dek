@@ -41,7 +41,6 @@
 		<card><name id="Rupert_Einstein">Rupert Einstein</name><set>Prime</set></card>
 		<card><name id="Science_Ship">Science Ship</name><set>Prime</set></card>
 		<card><name id="Science_Ship">Science Ship</name><set>Prime</set></card>
-		<card><name id="Scorched_World">Scorched World</name><set>Prime</set></card>
 		<card><name id="Sgt_Beat">Sgt. Beat</name><set>Prime</set></card>
 		<card><name id="Sgt_Beat">Sgt. Beat</name><set>Prime</set></card>
 		<card><name id="Simon_Christiansen">Simon Christiansen</name><set>Prime</set></card>
@@ -56,5 +55,6 @@
 		<card><name id="Frozen_World">Frozen World</name><set>Prime</set></card>
 		<card><name id="Mars">Mars</name><set>Prime</set></card>
 		<card><name id="Mining_Asteroid">Mining Asteroid</name><set>Prime</set></card>
+		<card><name id="Scorched_World">Scorched World</name><set>Prime</set></card>
 	</superzone>
 </deck>
