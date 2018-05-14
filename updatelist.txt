@@ -1,7 +1,7 @@
 Firestorm	05-13-18
 plugins/Firestorm/FireStormRulebook.pdf	https://github.com/NoSoup4you/Firestorm-LackeyCCG/raw/master/FirestormRulebook.pdf	2330233
-plugins/Firestorm/Quick_Reference_1.jpg	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/Quick_Reference_01.jpg	-111449
-plugins/Firestorm/Quick_Reference_2.jpg	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/Quick_Reference_02.jpg	-30626
+plugins/Firestorm/Quick_Reference_1.jpg	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/Quick_Reference_1.jpg	-111449
+plugins/Firestorm/Quick_Reference_2.jpg	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/Quick_Reference_2.jpg	-30626
 plugins/Firestorm/plugininfo.txt	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/plugininfo.txt	336444
 plugins/Firestorm/pluginpreferences.txt	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/pluginpreferences.txt	177603
 plugins/Firestorm/version.txt	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/version.txt	29104
