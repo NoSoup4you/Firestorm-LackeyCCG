@@ -1,8 +1,8 @@
 <version>
 
-<lastupdateYYMMDD>180512</lastupdateYYMMDD>
- <versionurl></versionurl>
- <updateurl></updateurl>
- <message></message>
+<lastupdateYYMMDD>180513</lastupdateYYMMDD>
+ <versionurl>https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/version.txt</versionurl>
+ <updateurl>https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/updatelist.txt</updateurl>
+ <message>FOK U</message>
 
 </version>
