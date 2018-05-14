@@ -13,5 +13,4 @@ plugins/Firestorm/sets/carddata.txt	https://raw.githubusercontent.com/NoSoup4you
 plugins/Firestorm/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/sets/setimages/general/cardback.jpg	241673
 plugins/Firestorm/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/sets/setimages/general/cardback.jpg	241673
 CardGeneralURLs:		
-https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG
-/master/sets/setimages/general/
+https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/sets/setimages/general/
