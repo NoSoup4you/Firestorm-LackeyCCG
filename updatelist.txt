@@ -1,2 +1,18 @@
 Firestorm	05-12-18
-plugins/Firestorm/plugininfo.txt
+plugins/Firestorm/FireStormRulebook.pdf	https://github.com/NoSoup4you/Firestorm-LackeyCCG/raw/master/FirestormRulebook.pdf	1
+plugins/Firestorm/Quick Reference 1.jpg	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/Quick%20Reference%201.jpg	1
+plugins/Firestorm/Quick Reference 2.jpg	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/Quick%20Reference%202.jpg	1
+plugins/Firestorm/plugininfo.txt	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/plugininfo.txt	1
+plugins/Firestorm/pluginpreferences.txt	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/pluginpreferences.txt	1
+plugins/Firestorm/version.txt	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/version.txt	1
+plugins/Firestorm/uninstall.txt	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/uninstall.txt	1
+plugins/Firestorm/changelog.txt	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/changelog.txt	1
+plugins/Firestorm/decks/Dysori_Starter.dek	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/decks/Dysori_Starter.dek	1
+plugins/Firestorm/decks/Muero_Starter.dek	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/decks/Muero_Starter.dek	1
+plugins/Firestorm/decks/Human_Starter.dek	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/decks/Human_Starter.dek	1
+plugins/Firestorm/decks/Soven_Starter.dek	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/decks/Soven_Starter.dek	1
+plugins/Firestorm/sets/carddata.txt	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/sets/carddata.txt	1
+plugins/Firestorm/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/sets/setimages/general/cardback.jpg	1
+plugins/Firestorm/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/sets/setimages/general/cardback.jpg	1
+CardGeneralURLs:		
+https://raw.githubusercontent.com/NoSoup4you/Firestorm/master/sets/setimages/general/
