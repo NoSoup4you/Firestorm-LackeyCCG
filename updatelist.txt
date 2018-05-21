@@ -1,4 +1,4 @@
-Firestorm	05-13-18
+Firestorm	05-20-18
 plugins/Firestorm/FireStormRulebook.pdf	https://github.com/NoSoup4you/Firestorm-LackeyCCG/raw/master/FirestormRulebook.pdf	2330233
 plugins/Firestorm/Quick_Reference_1.jpg	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/Quick_Reference_1.jpg	-111449
 plugins/Firestorm/Quick_Reference_2.jpg	https://raw.githubusercontent.com/NoSoup4you/Firestorm-LackeyCCG/master/Quick_Reference_2.jpg	-30626

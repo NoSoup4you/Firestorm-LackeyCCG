@@ -1,6 +1,6 @@
 <pluginpreferences>
 
-<lastversionupdate>180512</lastversionupdate>
+<lastversionupdate>180520</lastversionupdate>
 <counterstyleimagesizetextoverimage>24</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>24</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
@@ -37,11 +37,11 @@
 <fontsize3>20</fontsize3>
 <bindingcanned0>CTRL+p</bindingcanned0>
 <bindingcanned1>CTRL+r</bindingcanned1>
-<bindingcanned2>SHIFT+r</bindingcanned2>
+<bindingcanned2>ALT+r</bindingcanned2>
 <bindingcanned3>CTRL+c</bindingcanned3>
-<bindingcanned4>SHIFT+c</bindingcanned4>
+<bindingcanned4>ALT+c</bindingcanned4>
 <bindingcanned5>CTRL+t</bindingcanned5>
-<bindingcanned6>SHIFT+t</bindingcanned6>
+<bindingcanned6>ALT+t</bindingcanned6>
 <recentformat>-1</recentformat>
 <deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
 <scalefactor>0.880000</scalefactor>
